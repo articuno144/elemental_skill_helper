@@ -1,0 +1,14 @@
+{
+    "check_mona": false,
+    "bbox": {
+        "top": 253,
+        "left": 1855,
+        "width": 33,
+        "height": 320
+    },
+    "char1": 15,
+    "char2": 110,
+    "char3": 208,
+    "char4": 302,
+    "mona": 4
+}
